@@ -11,7 +11,7 @@
 -Última data de negociação;
 
 -Gerar dados de uma pessoa falsa:Gera dados de uma pessoa de acordo com o que o usuário preferir e no final transforma em um arquivo JSON, podendo receber até 5 pessoas.
-Dados que podem gerar:
+Dados que podem ser gerados:
 -Nome;
 -CPF;
 -Data de nascimento;
