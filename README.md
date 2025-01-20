@@ -1,6 +1,6 @@
 --EXTRA UTILITIES--
  Projeto multifuncional com funcionalidades como:
- -Encurtador de links: Recebe uma url qualquer e consegue encurtar utilizando a API encurtador.dev
+ -Encurtador de links: Recebe uma URL qualquer e consegue realizar uma encurtação;
  
 -Ver valores de moedas e realizar conversão com valores em tempo real: Recebe duas moedas e pode escolher quanto ver cotação de moedas,quanto também realizar conversões entre elas.Acessando informações como:
 -Valor atual;
@@ -24,3 +24,7 @@ Dados que podem ser gerados:
 -Número do cartão;
 -CVV;
 -Data de validade;
+
+API's usadas:
+-encurtador.dev:API que realiza a encurtação da URL fornecida.
+-Awesome api:API utilizada para acessar valores de moedas em tempo real e processar o cep gerado aleatoriamente pelo código.
